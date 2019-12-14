@@ -1,5 +1,5 @@
-# files for testing purposes
+/* For testing purpose */
 test.py
 
-#extra notebook files
-/.ipynb_checkpoints
+/* Notebook checkpoints file */
+.ipynb_checkpoints

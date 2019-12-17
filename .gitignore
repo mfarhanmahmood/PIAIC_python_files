@@ -3,3 +3,6 @@ test.py
 
 /* Notebook checkpoints file */
 .ipynb_checkpoints
+
+/* Vscode configuration */
+.vscode
